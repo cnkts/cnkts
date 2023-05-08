@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi. My name is Can. I am studying Computer Programming Faculty at İstanbul University. <br>I am in love with programming.<br>I am experienced web side mostly.<br>I love to use color patterns, font faces and images while design a web site. <br>I am also experienced about web design, frontend & backend programming with different programming languages and frameworks.<br><br>Currently I am learning Java Language by 6 Months Full Stack Software Training organized by Patika.dev & kodluyoruz.org<br>
 
+[![](https://visitcount.itsvg.in/api?id=cnkts&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/can-a-2929a0250) 
@@ -25,6 +26,5 @@ Hi. My name is Can. I am studying Computer Programming Faculty at İstanbul Univ
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cnkts&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
